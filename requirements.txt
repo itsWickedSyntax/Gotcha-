@@ -1,0 +1,9 @@
+aiohttp>=3.8.0
+asyncio
+colorama>=0.4.4
+dnspython>=2.1.0
+argparse
+pathlib
+typing
+urllib3>=1.26.0
+requests>=2.25.0
